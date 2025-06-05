@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Karthie 👋
 
-<!--
-**ehrktia/ehrktia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer
 
-Here are some ideas to get you started:
+- **Languages:** Golang, Rust  
+- **Projects:**  
+  - [memcache](https://github.com/ehrktia/memcache): High-performance, in-memory caching solution.
+  - [pwd-gen](https://github.com/ehrktia/pwd-gen): Secure password generator utility.
+  - [httpsling](https://github.com/ehrktia/httpsling): HTTP client library for efficient network requests.
+- **Website:** [karthie.uk](https://www.karthie.uk)
+- **Professionalism:** Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> “Human mind is the most powerful machine”
+
+Feel free to connect or check out my projects!
